@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anthonykempka and here you can find my public facing projects.
+- 👋 Hi, I’m @anthonykempka and here you can find my public facing GitHub projects.
 - 👀 I’m interested in a wide range of technical topics ranging from HW to SW and evertyhing in between, including FW, UEFI/BIOS, OS Kernel, Device Drivers, Cloud, and AI/ML.
-- 🌱 I’m currently publishing a number of technical projects on GitHub over the coming weeks. Most are past projects that people many find informative, but there are also new projects as well.
+- 🌱 Over the comming weeks [March 2022] I'm publishing a number of technical projects on GitHub. Most are past projects that people may find informative, but there are also new projects as well.
 - 📫 How to reach me via email is <anthony.kempka@gmail.com>
 
 <!---
