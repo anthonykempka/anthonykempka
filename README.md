@@ -1,6 +1,6 @@
 Hi, I’m @anthonykempka and here is where you can find my public facing GitHub projects.
 
-I’m interested in a wide range of technical topics ranging from HW to SW and everything in between, including FW, UEFI/BIOS, OS kernels, device drivers, cloud, and AI/ML.
+I’m interested in a wide range of technical topics ranging from Hardware to Software and everything in between: Firmware, UEFI/BIOS, OS kernels, device drivers, cloud, and AI/ML.
 
 Over the coming weeks _(Spring 2022)_ I'm publishing a number of technical projects on GitHub. Many are past projects that people may find informative, but there are also new projects in the mix as well. These are projects **not** associated with any of my work in government contracting.
 
